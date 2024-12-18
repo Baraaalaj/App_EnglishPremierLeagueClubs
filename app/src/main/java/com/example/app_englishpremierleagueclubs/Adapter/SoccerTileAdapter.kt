@@ -70,4 +70,6 @@ class SoccerTileAdapter(private var soccerTile: ArrayList<SoccerTile>, private v
         }
     }
 
+    //jnbkjnrb
+
 }
