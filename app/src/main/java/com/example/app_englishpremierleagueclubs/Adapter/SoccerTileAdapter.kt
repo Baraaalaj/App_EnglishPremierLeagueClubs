@@ -71,5 +71,15 @@ class SoccerTileAdapter(private var soccerTile: ArrayList<SoccerTile>, private v
     }
 
     //jnbkjnrb
-
+/*
+;kfbldnb;fdsnb;fdb
+f;bnsdflkbndfk;b
+dfbnljdfnbkldfnb
+dfbljdfnblfkdnbd
+fdnlbndflkbndflkb
+lkfndbkldnlb
+bkdfnblkdnfbld
+bdfjlbndflkbndfbndflbndflkbn
+lkfnbkdfnbldfnblndflbndflkbndlfbk
+ */
 }
